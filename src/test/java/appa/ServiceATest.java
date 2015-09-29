@@ -1,11 +1,8 @@
-package appa.src.test.java;
+package appa;
 
 import static org.junit.Assert.*;
 
 import org.junit.Test;
-
-import appa.IServiceA;
-import appa.ServiceA;
 
 public class ServiceATest {
 
